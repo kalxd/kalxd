@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalxd&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalxd&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **kalxd/kalxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalxd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalxd)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
