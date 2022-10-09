@@ -3,7 +3,7 @@
 
 [![kalxd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalxd&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalxd&layout=compact&hide=html,css,less,dhall,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalxd&layout=compact&hide=html,css,less,dhall)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kalxd/kalxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
